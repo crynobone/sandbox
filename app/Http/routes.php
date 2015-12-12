@@ -21,6 +21,4 @@ $router->get('/', 'WelcomeController@index');
 | kernel and includes session state, CSRF protection, and more.
 */
 
-$router->group(['middleware' => 'web'], function (Router $router) {
-    $router->get('home', 'HomeController@index');
-});
+$router->get('home', 'HomeController@index');

@@ -368,12 +368,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "1da6405111e8178c564bef8edc1f978da3f1bd17"
+                "reference": "4f84b9afd3c3c4cf071e83b34dee95663898a4fb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/1da6405111e8178c564bef8edc1f978da3f1bd17",
-                "reference": "1da6405111e8178c564bef8edc1f978da3f1bd17",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/4f84b9afd3c3c4cf071e83b34dee95663898a4fb",
+                "reference": "4f84b9afd3c3c4cf071e83b34dee95663898a4fb",
                 "shasum": ""
             },
             "require": {
@@ -489,7 +489,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2015-12-11 03:51:17"
+            "time": "2015-12-11 21:45:37"
         },
         {
             "name": "laravie/html",
@@ -1171,12 +1171,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/foundation.git",
-                "reference": "83756b1e73829f20804406e207784c0aa13c84e1"
+                "reference": "b7cead279f39e700739a56f26d5b86b6f04e8ce3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/foundation/zipball/83756b1e73829f20804406e207784c0aa13c84e1",
-                "reference": "83756b1e73829f20804406e207784c0aa13c84e1",
+                "url": "https://api.github.com/repos/orchestral/foundation/zipball/b7cead279f39e700739a56f26d5b86b6f04e8ce3",
+                "reference": "b7cead279f39e700739a56f26d5b86b6f04e8ce3",
                 "shasum": ""
             },
             "require": {
@@ -1246,7 +1246,7 @@
                 "orchestral",
                 "user-management"
             ],
-            "time": "2015-12-11 09:25:59"
+            "time": "2015-12-11 15:59:00"
         },
         {
             "name": "orchestra/html",
@@ -1372,12 +1372,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/kernel.git",
-                "reference": "8ce6a17be123fcbfde3865ec189906b74b347f99"
+                "reference": "3036ae7a0b3c55f85fccae6fd275e61472df0c0c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/kernel/zipball/8ce6a17be123fcbfde3865ec189906b74b347f99",
-                "reference": "8ce6a17be123fcbfde3865ec189906b74b347f99",
+                "url": "https://api.github.com/repos/orchestral/kernel/zipball/3036ae7a0b3c55f85fccae6fd275e61472df0c0c",
+                "reference": "3036ae7a0b3c55f85fccae6fd275e61472df0c0c",
                 "shasum": ""
             },
             "require": {
@@ -1429,7 +1429,7 @@
                 "orchestra-platform",
                 "orchestral"
             ],
-            "time": "2015-12-09 11:42:54"
+            "time": "2015-12-11 15:41:47"
         },
         {
             "name": "orchestra/memory",
@@ -3534,12 +3534,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/studio.git",
-                "reference": "1f938792a82224b35fa833a6268674d80d99905d"
+                "reference": "17b3270d1ab519f8810d1a18acc88a342b5080c2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/studio/zipball/1f938792a82224b35fa833a6268674d80d99905d",
-                "reference": "1f938792a82224b35fa833a6268674d80d99905d",
+                "url": "https://api.github.com/repos/orchestral/studio/zipball/17b3270d1ab519f8810d1a18acc88a342b5080c2",
+                "reference": "17b3270d1ab519f8810d1a18acc88a342b5080c2",
                 "shasum": ""
             },
             "require": {
@@ -3578,7 +3578,7 @@
                 }
             ],
             "description": "Code Generator for Orchestra Platform",
-            "time": "2015-12-11 10:06:08"
+            "time": "2015-12-11 23:59:57"
         },
         {
             "name": "orchestra/testbench",
