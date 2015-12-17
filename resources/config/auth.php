@@ -31,7 +31,7 @@ return [
     | users are actually retrieved out of your database or other storage
     | mechanisms used by this application to persist your user's data.
     |
-    | Supported: "session"
+    | Supported: "session", "token"
     |
     */
 
@@ -41,9 +41,10 @@ return [
             'source' => 'users',
         ],
 
-        // 'api' => [
-
-        // ],
+        'api' => [
+            'driver' => 'token',
+            'source' => 'users',
+        ],
     ],
 
     /*
@@ -66,12 +67,12 @@ return [
     'sources' => [
         'users' => [
             'driver' => 'eloquent',
-            'model' => App\User::class,
+            'model'  => App\User::class,
         ],
 
         // 'users' => [
         //     'driver' => 'database',
-        //     'table' => 'users',
+        //     'table'  => 'users',
         // ],
     ],
 
@@ -97,10 +98,23 @@ return [
     'passwords' => [
         'users' => [
             'source' => 'users',
-            'email' => 'emails.auth.password',
-            'table' => 'password_resets',
+            'email'  => 'emails.auth.password',
+            'table'  => 'password_resets',
             'expire' => 60,
         ],
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | User Register Settings
+    |--------------------------------------------------------------------------
+    |
+    | Here you may set the options for registering user including the view
+    | that is your welcome e-mail.
+    */
+
+    'registers' => [
+        'email' => 'emails.auth.register',
     ],
 
 ];
