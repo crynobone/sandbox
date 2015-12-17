@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "8fc97ba52dd85cf9c4962961248cb899",
+    "hash": "3a1a2e20cc4d48cea0993eb3367bd092",
     "content-hash": "3b7fd25fe53a8e104a1783d0e51959b7",
     "packages": [
         {
@@ -368,12 +368,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "70dbb7fca80f63c8aff40e40684bd912ca056329"
+                "reference": "477ac1029adc356365311a8dcdeae9ef60c3770b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/70dbb7fca80f63c8aff40e40684bd912ca056329",
-                "reference": "70dbb7fca80f63c8aff40e40684bd912ca056329",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/477ac1029adc356365311a8dcdeae9ef60c3770b",
+                "reference": "477ac1029adc356365311a8dcdeae9ef60c3770b",
                 "shasum": ""
             },
             "require": {
@@ -489,7 +489,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2015-12-14 02:16:01"
+            "time": "2015-12-17 04:05:31"
         },
         {
             "name": "laravie/html",
@@ -497,12 +497,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravie/html.git",
-                "reference": "936961eb09ba13b44c1d4e32605fd5ca4dcd0018"
+                "reference": "bff2327bf2ed58cca5dcaa36c31e0dd9c09a4d4e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravie/html/zipball/936961eb09ba13b44c1d4e32605fd5ca4dcd0018",
-                "reference": "936961eb09ba13b44c1d4e32605fd5ca4dcd0018",
+                "url": "https://api.github.com/repos/laravie/html/zipball/bff2327bf2ed58cca5dcaa36c31e0dd9c09a4d4e",
+                "reference": "bff2327bf2ed58cca5dcaa36c31e0dd9c09a4d4e",
                 "shasum": ""
             },
             "require": {
@@ -553,7 +553,7 @@
                 }
             ],
             "description": "HTML and Form Builders for the Laravel Framework",
-            "time": "2015-12-03 16:39:16"
+            "time": "2015-12-16 00:00:26"
         },
         {
             "name": "league/flysystem",
@@ -925,12 +925,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/auth.git",
-                "reference": "12442199530cf69bc7081a06511541b226062d34"
+                "reference": "c592fbb3c69ff036fe39d7713a274681a24f0be3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/auth/zipball/12442199530cf69bc7081a06511541b226062d34",
-                "reference": "12442199530cf69bc7081a06511541b226062d34",
+                "url": "https://api.github.com/repos/orchestral/auth/zipball/c592fbb3c69ff036fe39d7713a274681a24f0be3",
+                "reference": "c592fbb3c69ff036fe39d7713a274681a24f0be3",
                 "shasum": ""
             },
             "require": {
@@ -946,7 +946,7 @@
             "require-dev": {
                 "illuminate/database": "~5.2.0",
                 "illuminate/session": "~5.2.0",
-                "mockery/mockery": "0.9.*",
+                "mockery/mockery": "^0.9.1",
                 "paragonie/random_compat": "~1.1"
             },
             "suggest": {
@@ -991,7 +991,7 @@
                 "permission",
                 "rbac"
             ],
-            "time": "2015-12-06 23:08:59"
+            "time": "2015-12-17 05:13:54"
         },
         {
             "name": "orchestra/contracts",
@@ -1108,12 +1108,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/extension.git",
-                "reference": "e46203f2485ce1a31aa5f115b6b557d3c5bf961f"
+                "reference": "f0b9fb982641b3d072fea24c29fddd07a9e17750"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/extension/zipball/e46203f2485ce1a31aa5f115b6b557d3c5bf961f",
-                "reference": "e46203f2485ce1a31aa5f115b6b557d3c5bf961f",
+                "url": "https://api.github.com/repos/orchestral/extension/zipball/f0b9fb982641b3d072fea24c29fddd07a9e17750",
+                "reference": "f0b9fb982641b3d072fea24c29fddd07a9e17750",
                 "shasum": ""
             },
             "require": {
@@ -1163,7 +1163,7 @@
                 "orchestra-platform",
                 "orchestral"
             ],
-            "time": "2015-12-11 09:36:50"
+            "time": "2015-12-15 02:13:43"
         },
         {
             "name": "orchestra/foundation",
@@ -1171,12 +1171,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/foundation.git",
-                "reference": "162afd34ca75e62c7994af5442628590bbda90d1"
+                "reference": "16f862fb7a480bb892cde854ef3076c826ec50d4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/foundation/zipball/162afd34ca75e62c7994af5442628590bbda90d1",
-                "reference": "162afd34ca75e62c7994af5442628590bbda90d1",
+                "url": "https://api.github.com/repos/orchestral/foundation/zipball/16f862fb7a480bb892cde854ef3076c826ec50d4",
+                "reference": "16f862fb7a480bb892cde854ef3076c826ec50d4",
                 "shasum": ""
             },
             "require": {
@@ -1246,7 +1246,7 @@
                 "orchestral",
                 "user-management"
             ],
-            "time": "2015-12-13 18:43:25"
+            "time": "2015-12-15 00:39:44"
         },
         {
             "name": "orchestra/html",
@@ -1317,12 +1317,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/installer.git",
-                "reference": "0e2079e8baa25ca80994bcf7bc98aec41a3c66e1"
+                "reference": "0ef7fdcc2e6b97960b563672acb5d09ce06705d7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/installer/zipball/0e2079e8baa25ca80994bcf7bc98aec41a3c66e1",
-                "reference": "0e2079e8baa25ca80994bcf7bc98aec41a3c66e1",
+                "url": "https://api.github.com/repos/orchestral/installer/zipball/0ef7fdcc2e6b97960b563672acb5d09ce06705d7",
+                "reference": "0ef7fdcc2e6b97960b563672acb5d09ce06705d7",
                 "shasum": ""
             },
             "require": {
@@ -1364,7 +1364,7 @@
                 "orchestra-platform",
                 "orchestral"
             ],
-            "time": "2015-12-05 09:18:07"
+            "time": "2015-12-17 05:39:07"
         },
         {
             "name": "orchestra/kernel",
@@ -3586,15 +3586,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/testbench.git",
-                "reference": "1ae08be333d61ab9ab82523d8f7771b1483a6fa4"
+                "reference": "a6062f4b873d674cbb39a2121b045a553997a64d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/testbench/zipball/1ae08be333d61ab9ab82523d8f7771b1483a6fa4",
-                "reference": "1ae08be333d61ab9ab82523d8f7771b1483a6fa4",
+                "url": "https://api.github.com/repos/orchestral/testbench/zipball/a6062f4b873d674cbb39a2121b045a553997a64d",
+                "reference": "a6062f4b873d674cbb39a2121b045a553997a64d",
                 "shasum": ""
             },
             "require": {
+                "fzaninotto/faker": "~1.4",
                 "laravel/framework": "~5.2.0",
                 "orchestra/database": "~3.2.0",
                 "php": ">=5.5.0",
@@ -3640,7 +3641,7 @@
                 "orchestral",
                 "testing"
             ],
-            "time": "2015-12-13 16:46:37"
+            "time": "2015-12-16 05:02:47"
         },
         {
             "name": "orchestra/testing",
@@ -3648,12 +3649,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/testing.git",
-                "reference": "638e3a0a9699bf1e424c301c36e79ef4bc8d3d08"
+                "reference": "f39e4d0a2a7e10f5c6f470451fe895f0041a5bda"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/testing/zipball/638e3a0a9699bf1e424c301c36e79ef4bc8d3d08",
-                "reference": "638e3a0a9699bf1e424c301c36e79ef4bc8d3d08",
+                "url": "https://api.github.com/repos/orchestral/testing/zipball/f39e4d0a2a7e10f5c6f470451fe895f0041a5bda",
+                "reference": "f39e4d0a2a7e10f5c6f470451fe895f0041a5bda",
                 "shasum": ""
             },
             "require": {
@@ -3693,7 +3694,7 @@
                 }
             ],
             "description": "Orchestra Platform Testing Helper",
-            "time": "2015-12-12 17:43:08"
+            "time": "2015-12-17 05:45:17"
         },
         {
             "name": "phpdocumentor/reflection-docblock",
