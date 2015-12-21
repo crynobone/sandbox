@@ -63,16 +63,16 @@
         },
         {
             "name": "danielstjules/stringy",
-            "version": "2.1.0",
+            "version": "2.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/danielstjules/Stringy.git",
-                "reference": "efb10020f6f0274bd3c43a1549f37535e0a9d1cc"
+                "reference": "fc39b709533d328380c9b436c9801c619669da09"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/danielstjules/Stringy/zipball/efb10020f6f0274bd3c43a1549f37535e0a9d1cc",
-                "reference": "efb10020f6f0274bd3c43a1549f37535e0a9d1cc",
+                "url": "https://api.github.com/repos/danielstjules/Stringy/zipball/fc39b709533d328380c9b436c9801c619669da09",
+                "reference": "fc39b709533d328380c9b436c9801c619669da09",
                 "shasum": ""
             },
             "require": {
@@ -115,7 +115,7 @@
                 "utility",
                 "utils"
             ],
-            "time": "2015-09-03 06:50:48"
+            "time": "2015-12-21 00:49:59"
         },
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -493,16 +493,16 @@
         },
         {
             "name": "laravie/html",
-            "version": "5.2.x-dev",
+            "version": "v5.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravie/html.git",
-                "reference": "bff2327bf2ed58cca5dcaa36c31e0dd9c09a4d4e"
+                "reference": "6a43e0a51cfc04fde7342eef9bf8d626c964fd20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravie/html/zipball/bff2327bf2ed58cca5dcaa36c31e0dd9c09a4d4e",
-                "reference": "bff2327bf2ed58cca5dcaa36c31e0dd9c09a4d4e",
+                "url": "https://api.github.com/repos/laravie/html/zipball/6a43e0a51cfc04fde7342eef9bf8d626c964fd20",
+                "reference": "6a43e0a51cfc04fde7342eef9bf8d626c964fd20",
                 "shasum": ""
             },
             "require": {
@@ -553,20 +553,20 @@
                 }
             ],
             "description": "HTML and Form Builders for the Laravel Framework",
-            "time": "2015-12-16 00:00:26"
+            "time": "2015-12-21 10:48:53"
         },
         {
             "name": "league/flysystem",
-            "version": "1.0.15",
+            "version": "1.0.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "31525caf9e8772683672fefd8a1ca0c0736020f4"
+                "reference": "183e1a610664baf6dcd6fceda415baf43cbdc031"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/31525caf9e8772683672fefd8a1ca0c0736020f4",
-                "reference": "31525caf9e8772683672fefd8a1ca0c0736020f4",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/183e1a610664baf6dcd6fceda415baf43cbdc031",
+                "reference": "183e1a610664baf6dcd6fceda415baf43cbdc031",
                 "shasum": ""
             },
             "require": {
@@ -580,7 +580,7 @@
                 "mockery/mockery": "~0.9",
                 "phpspec/phpspec": "^2.2",
                 "phpspec/prophecy-phpunit": "~1.0",
-                "phpunit/phpunit": "~4.1"
+                "phpunit/phpunit": "~4.8"
             },
             "suggest": {
                 "ext-fileinfo": "Required for MimeType",
@@ -637,7 +637,7 @@
                 "sftp",
                 "storage"
             ],
-            "time": "2015-09-30 22:26:59"
+            "time": "2015-12-19 20:16:43"
         },
         {
             "name": "monolog/monolog",
@@ -1108,12 +1108,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/extension.git",
-                "reference": "f0b9fb982641b3d072fea24c29fddd07a9e17750"
+                "reference": "9bf795f6654e3ff7957c23367557a107f6a57de0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/extension/zipball/f0b9fb982641b3d072fea24c29fddd07a9e17750",
-                "reference": "f0b9fb982641b3d072fea24c29fddd07a9e17750",
+                "url": "https://api.github.com/repos/orchestral/extension/zipball/9bf795f6654e3ff7957c23367557a107f6a57de0",
+                "reference": "9bf795f6654e3ff7957c23367557a107f6a57de0",
                 "shasum": ""
             },
             "require": {
@@ -1163,7 +1163,7 @@
                 "orchestra-platform",
                 "orchestral"
             ],
-            "time": "2015-12-15 02:13:43"
+            "time": "2015-12-21 11:10:31"
         },
         {
             "name": "orchestra/foundation",
@@ -1372,12 +1372,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/kernel.git",
-                "reference": "3036ae7a0b3c55f85fccae6fd275e61472df0c0c"
+                "reference": "5b64bb515f5bd9af65c3888bf96f32867718956a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/kernel/zipball/3036ae7a0b3c55f85fccae6fd275e61472df0c0c",
-                "reference": "3036ae7a0b3c55f85fccae6fd275e61472df0c0c",
+                "url": "https://api.github.com/repos/orchestral/kernel/zipball/5b64bb515f5bd9af65c3888bf96f32867718956a",
+                "reference": "5b64bb515f5bd9af65c3888bf96f32867718956a",
                 "shasum": ""
             },
             "require": {
@@ -1429,20 +1429,20 @@
                 "orchestra-platform",
                 "orchestral"
             ],
-            "time": "2015-12-11 15:41:47"
+            "time": "2015-12-21 13:24:07"
         },
         {
             "name": "orchestra/memory",
-            "version": "3.2.x-dev",
+            "version": "v3.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/memory.git",
-                "reference": "f2ebfafc38d8b900791b8eb52d8d59e833444510"
+                "reference": "12abe56480c527f59a0a73daa05839541b28e16e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/memory/zipball/f2ebfafc38d8b900791b8eb52d8d59e833444510",
-                "reference": "f2ebfafc38d8b900791b8eb52d8d59e833444510",
+                "url": "https://api.github.com/repos/orchestral/memory/zipball/12abe56480c527f59a0a73daa05839541b28e16e",
+                "reference": "12abe56480c527f59a0a73daa05839541b28e16e",
                 "shasum": ""
             },
             "require": {
@@ -1493,7 +1493,7 @@
                 "orchestra-platform",
                 "orchestral"
             ],
-            "time": "2015-12-13 19:10:03"
+            "time": "2015-12-20 15:06:53"
         },
         {
             "name": "orchestra/messages",
@@ -1562,16 +1562,16 @@
         },
         {
             "name": "orchestra/model",
-            "version": "3.2.x-dev",
+            "version": "v3.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/model.git",
-                "reference": "61eae3e9981549dd2b507486be7d329bd32c2af9"
+                "reference": "03567aed268f4abd1899a8d2b46086e3f449c9fc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/model/zipball/61eae3e9981549dd2b507486be7d329bd32c2af9",
-                "reference": "61eae3e9981549dd2b507486be7d329bd32c2af9",
+                "url": "https://api.github.com/repos/orchestral/model/zipball/03567aed268f4abd1899a8d2b46086e3f449c9fc",
+                "reference": "03567aed268f4abd1899a8d2b46086e3f449c9fc",
                 "shasum": ""
             },
             "require": {
@@ -1615,20 +1615,20 @@
                 "orchestra-platform",
                 "orchestral"
             ],
-            "time": "2015-12-13 19:19:54"
+            "time": "2015-12-20 11:13:10"
         },
         {
             "name": "orchestra/notifier",
-            "version": "3.2.x-dev",
+            "version": "v3.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/notifier.git",
-                "reference": "fb50234eb61ae4ee74b177b3b9e4d1a3520fae66"
+                "reference": "873f8dd8700164079bdec53b4228d912cbf00819"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/notifier/zipball/fb50234eb61ae4ee74b177b3b9e4d1a3520fae66",
-                "reference": "fb50234eb61ae4ee74b177b3b9e4d1a3520fae66",
+                "url": "https://api.github.com/repos/orchestral/notifier/zipball/873f8dd8700164079bdec53b4228d912cbf00819",
+                "reference": "873f8dd8700164079bdec53b4228d912cbf00819",
                 "shasum": ""
             },
             "require": {
@@ -1673,7 +1673,7 @@
                 "orchestra-platform",
                 "orchestral"
             ],
-            "time": "2015-12-06 02:30:03"
+            "time": "2015-12-20 10:46:59"
         },
         {
             "name": "orchestra/optimize",
@@ -1792,16 +1792,16 @@
         },
         {
             "name": "orchestra/support",
-            "version": "3.2.x-dev",
+            "version": "v3.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/support.git",
-                "reference": "503b5fa21fb17f53addebe3aac86089fbd8b5ac3"
+                "reference": "38c6babf8cf94610c0a97b9e728f4228a5b566cf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/support/zipball/503b5fa21fb17f53addebe3aac86089fbd8b5ac3",
-                "reference": "503b5fa21fb17f53addebe3aac86089fbd8b5ac3",
+                "url": "https://api.github.com/repos/orchestral/support/zipball/38c6babf8cf94610c0a97b9e728f4228a5b566cf",
+                "reference": "38c6babf8cf94610c0a97b9e728f4228a5b566cf",
                 "shasum": ""
             },
             "require": {
@@ -1860,7 +1860,7 @@
                 "utilities",
                 "validator"
             ],
-            "time": "2015-12-13 16:43:59"
+            "time": "2015-12-20 10:10:25"
         },
         {
             "name": "orchestra/translation",
@@ -3534,12 +3534,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/studio.git",
-                "reference": "0b97951cb96725b42a127ea47963e4b15f30a96c"
+                "reference": "a9494dfffd84e5a4e48cfcea69395f613c98d997"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/studio/zipball/0b97951cb96725b42a127ea47963e4b15f30a96c",
-                "reference": "0b97951cb96725b42a127ea47963e4b15f30a96c",
+                "url": "https://api.github.com/repos/orchestral/studio/zipball/a9494dfffd84e5a4e48cfcea69395f613c98d997",
+                "reference": "a9494dfffd84e5a4e48cfcea69395f613c98d997",
                 "shasum": ""
             },
             "require": {
@@ -3578,7 +3578,7 @@
                 }
             ],
             "description": "Code Generator for Orchestra Platform",
-            "time": "2015-12-12 00:26:47"
+            "time": "2015-12-21 13:28:59"
         },
         {
             "name": "orchestra/testbench",
@@ -3586,12 +3586,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/testbench.git",
-                "reference": "a8603f1f5f623428279c9a81dea43d4a7d88f96d"
+                "reference": "c34db97550b4ff688f0e2e91b6c641433b45d2bf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/testbench/zipball/a8603f1f5f623428279c9a81dea43d4a7d88f96d",
-                "reference": "a8603f1f5f623428279c9a81dea43d4a7d88f96d",
+                "url": "https://api.github.com/repos/orchestral/testbench/zipball/c34db97550b4ff688f0e2e91b6c641433b45d2bf",
+                "reference": "c34db97550b4ff688f0e2e91b6c641433b45d2bf",
                 "shasum": ""
             },
             "require": {
@@ -3641,7 +3641,7 @@
                 "orchestral",
                 "testing"
             ],
-            "time": "2015-12-17 09:21:06"
+            "time": "2015-12-19 01:14:08"
         },
         {
             "name": "orchestra/testing",
