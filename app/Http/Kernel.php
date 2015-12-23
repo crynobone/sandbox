@@ -50,10 +50,7 @@ class Kernel extends HttpKernel
     protected $routeMiddleware = [
         'auth' => Middleware\Authenticate::class,
         'auth.basic' => \Illuminate\Auth\Middleware\AuthenticateWithBasicAuth::class,
-<<<<<<< HEAD
-=======
         'throttle' => \Illuminate\Routing\Middleware\ThrottleRequests::class,
->>>>>>> orchestra/3.2
         'backend' => \Orchestra\Foundation\Http\Middleware\UseBackendTheme::class,
         'can' => \Orchestra\Foundation\Http\Middleware\Can::class,
         'guest' => Middleware\RedirectIfAuthenticated::class,
