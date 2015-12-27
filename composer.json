@@ -7,7 +7,7 @@
     "type": "project",
     "require": {
         "php": ">=5.5.9",
-        "orchestra/foundation": "3.2.x-dev",
+        "orchestra/foundation": "~3.2.0",
         "orchestra/installer": "~3.2",
         "orchestra/control": "~3.2"
     },
@@ -50,6 +50,6 @@
     "config": {
         "preferred-install": "dist"
     },
-    "prefer-stable": true,
+    "prefer-stable": false,
     "minimum-stability": "dev"
 }
