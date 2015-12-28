@@ -368,12 +368,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "c39d026b96a3d5ea1430631f3e7735899ba6370c"
+                "reference": "3789a96ec84fdc94685c90eb12e378dedb97411d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/c39d026b96a3d5ea1430631f3e7735899ba6370c",
-                "reference": "c39d026b96a3d5ea1430631f3e7735899ba6370c",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/3789a96ec84fdc94685c90eb12e378dedb97411d",
+                "reference": "3789a96ec84fdc94685c90eb12e378dedb97411d",
                 "shasum": ""
             },
             "require": {
@@ -488,7 +488,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2015-12-27 15:04:39"
+            "time": "2015-12-27 21:59:52"
         },
         {
             "name": "laravie/html",
@@ -926,12 +926,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/auth.git",
-                "reference": "a414ed3c0387d8868333a2c0d6c1bace72077f23"
+                "reference": "028b925baf89cdc628209e1f18e5c969bb34b0d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/auth/zipball/a414ed3c0387d8868333a2c0d6c1bace72077f23",
-                "reference": "a414ed3c0387d8868333a2c0d6c1bace72077f23",
+                "url": "https://api.github.com/repos/orchestral/auth/zipball/028b925baf89cdc628209e1f18e5c969bb34b0d9",
+                "reference": "028b925baf89cdc628209e1f18e5c969bb34b0d9",
                 "shasum": ""
             },
             "require": {
@@ -992,7 +992,7 @@
                 "permission",
                 "rbac"
             ],
-            "time": "2015-12-27 15:22:50"
+            "time": "2015-12-27 23:52:42"
         },
         {
             "name": "orchestra/contracts",
@@ -1172,19 +1172,19 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/orchestral/foundation.git",
-                "reference": "5a20e7f5cce4b3d12f45655ebac2657ad0fef336"
+                "reference": "251e1b47bdbfcb18b2f9a21b378c1b7db70612e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/orchestral/foundation/zipball/5a20e7f5cce4b3d12f45655ebac2657ad0fef336",
-                "reference": "5a20e7f5cce4b3d12f45655ebac2657ad0fef336",
+                "url": "https://api.github.com/repos/orchestral/foundation/zipball/251e1b47bdbfcb18b2f9a21b378c1b7db70612e7",
+                "reference": "251e1b47bdbfcb18b2f9a21b378c1b7db70612e7",
                 "shasum": ""
             },
             "require": {
-                "laravel/framework": "~5.2.5",
+                "laravel/framework": "~5.2.6",
                 "laravie/html": "~5.2.1",
                 "orchestra/asset": "~3.2.0",
-                "orchestra/auth": "~3.2.0",
+                "orchestra/auth": "~3.2.1",
                 "orchestra/contracts": "~3.2.1",
                 "orchestra/extension": "~3.2.0",
                 "orchestra/html": "~3.2.0",
@@ -1248,7 +1248,7 @@
                 "orchestral",
                 "user-management"
             ],
-            "time": "2015-12-27 08:30:45"
+            "time": "2015-12-28 00:02:14"
         },
         {
             "name": "orchestra/html",
